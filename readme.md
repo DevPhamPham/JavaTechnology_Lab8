@@ -4,6 +4,8 @@
 - InteliJ IDEA 2021.1 (bản Ultimate
 The Leading Java and Kotlin IDE dùng thử 30 ngày)
   
+- spring boot 2.7.10
+  
 #### clone chương trình về: git clone https://github.com/DevPhamPham/JavaTechnology_Lab8.git
 
 - mở project bằng inteliJ
@@ -17,4 +19,10 @@ The Leading Java and Kotlin IDE dùng thử 30 ngày)
 - truy cập vào trang web với đường dẫn: http://localhost:8080/
 
 
+## các công nghệ sử dụng:
+
+- thymeleaf
+- spring-boot-starter-data-jpa
+- mysql
+- spring boot
 
